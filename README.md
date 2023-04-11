@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Kashaf 
 #### I am a passionate developer.
-![I am a passionate developer.]( ![image](https://user-images.githubusercontent.com/95264887/231238122-d5c54493-c158-4425-8347-d89fc8e32690.png)
- )
+![I am a passionate developer.]
+<!-- (![image](https://user-images.githubusercontent.com/95264887/231238122-d5c54493-c158-4425-8347-d89fc8e32690.png)
+)-->
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
