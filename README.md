@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <!--
 ![I am a passionate developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 -->
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this project just for fun and to test my readme skills.
 
 Skills: C / C++ / Java .
+
 Tools: Flutter,GCP's Firebase,Git,Github,VS Code,Android Studio.
 
 
