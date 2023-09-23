@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
  
-#### I am a passionate developer.
+#### I am a passionate Software developer.
+
 <!--
 ![I am a passionate developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 -->
