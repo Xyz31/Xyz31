@@ -1,10 +1,10 @@
 ### Hi there 👋 my name is Kashaf.
 
-
+<!--
 - 🔭  I’m currently working on an app-based solution to identify and solve diseases in plants and crops.
 
 - 🌱  I'm currently learning DSA and Flutter Bloc to strengthen my programming skills and improve my app development expertise.
-
+--->
 - 👯  I’m looking to collaborate on open-source software projects aimed at deriving solutions for real-time problems.
 
 - 📫 How to reach me: kashaftemp@gmail.com.
