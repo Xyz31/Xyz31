@@ -19,9 +19,10 @@ I made this project just for fun and to test my readme skills.
 
 Skills: C / C++ / Java .
 
+<!--
 Tools: Flutter,GCP's Firebase,Git,Github,VS Code,Android Studio.
 
-<!--
+
 **Xyz31/Xyz31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
