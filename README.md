@@ -15,9 +15,8 @@
  
 #### I am a passionate Software developer.
 
-I made this project just for fun and to test my readme skills.
 
-Skills: C / C++ / Java .
+Skills: C / C++ / Java / Flutter / Dart / Python.
 
 <!--
 Tools: Flutter,GCP's Firebase,Git,Github,VS Code,Android Studio.
