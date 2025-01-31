@@ -7,7 +7,7 @@
 --->
 - 👯  I’m looking to collaborate on open-source software projects aimed at deriving solutions for real-time problems.
 
-- 📫 How to reach me: kashaftemp@gmail.com.
+- 📫 How to reach me: kashafkhan.dev@gmail.com.
 
 - ⚡ Fun fact: Did you know that the largest repository on GitHub is a project called "linux".
 
@@ -16,10 +16,10 @@
 #### I am a passionate Software developer.
 
 
-Skills: C / C++ / Java / Flutter / Dart / Python.
+Skills: C++, Java, DSA, Flutter, Streamlit, NodeJs, ExpressJs, Sockets, GCP's Firebase, Git, Github, VS Code, Android Studio.
 
 <!--
-Tools: Flutter,GCP's Firebase,Git,Github,VS Code,Android Studio.
+Tools: 
 
 
 **Xyz31/Xyz31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
